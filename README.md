@@ -1,2 +1,2 @@
-# danila-sevilia26.github.io
+# danhikradchenko-del.github.io
 Сайт визитка HTML, CSS

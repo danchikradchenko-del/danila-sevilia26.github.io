@@ -1,2 +1,2 @@
-# danhikradchenko-del.github.io
+# danchikradchenko-del.github.io
 Сайт визитка HTML, CSS
